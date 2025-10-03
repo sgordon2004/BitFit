@@ -34,7 +34,7 @@ The following **additional** features are implemented:
   - Mood
   - Exercise
 - [X] **Data Persistence After Restart**
-- **[X] Mutable Entries**
+- [X] **Mutable Entries**
   - All fields of an entry can be edited post-creation
   - Entries can be deleted entirely
 - [X] **User-friendly UI (+ stretch goals)**
