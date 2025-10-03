@@ -58,7 +58,7 @@ Here's a walkthrough of implemented user stories:
 
 *Proof of editable entries and date dialog:*
 
-<img src='gifs/edit.gif' title='Editing entries' width='' alt='Video Walkthrough' />
+<img src='gifs/edit.gif' title='Editing entries' width='50%' height='50%' alt='Video Walkthrough' />
 
 
 GIF created with:
