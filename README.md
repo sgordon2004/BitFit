@@ -29,18 +29,32 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] User can delete entries
-- [X] User can edit entries
-- [X] Collapabsible entries
-- [X] User can choose the date for their entry
-- [X] Entries grouped by date
+- [X] 4 trackable health metrics
+  - Water Intake
+  - Caloric Intake
+  - Mood
+  - Exercise
+- [X] Data Persistence After Restart
+- [X] Mutable Entries
+  - All fields of an entry can be edited post-creation
+  - Entries can be deleted entirely
+- [X] User-friendly UI (+ stretch goals)
+  - "Create entry" component that prompts users to make their daily entry
+  - Styilized/colorized UI
+  - *Entries are collapsible to save space on your screen*
+- [X] Date Categorized Logs
+  - Dates can be attached to entries (including past dates!)
+  - Entries are grouped by date within the RecyclerView
+- [X] Orientation Responsivity
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-### Proof of Required Features
-<img src='gifs/1.gif' title='Required Features Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='gifs/1.gif' title='Required Features Video Walkthrough' width='' alt='Video Walkthrough' title="At least 1 metric, Create entry UI, and RecyclerView "/>
+Proof of data persisting after restart:
+<img src='gifs/data_persistence.gif' title='Data Persistence Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
