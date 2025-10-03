@@ -51,26 +51,23 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='gifs/1.gif' title='Required Features Video Walkthrough' width='' alt='Video Walkthrough' />
-Proof of data persisting after restart:
+
+*Proof of data persisting after restart:*
+
 <img src='gifs/data_persistence.gif' title='Data Persistence Video Walkthrough'  width='50%' height='50%' alt='Video Walkthrough' />
 
+*Proof of editable entries and date dialog:*
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='gif/edit.gif' title='Editing entries' width '' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Describe any challenges encountered while building the app.
+GIF created with:
+- QuickTime Player to screen record.
+- [CloudConvert](https://cloudconvert.com/mov-to-gif) to convert .mov to .gif.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Syrr Gordon
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
