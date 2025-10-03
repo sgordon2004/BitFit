@@ -33,18 +33,13 @@ The following **additional** features are implemented:
   - Caloric Intake
   - Mood
   - Exercise
-- [X] **Data Persistence After Restart**
+- [X] **Date Sorted Logs**
+  - Dates can be attached to entries (including past dates!)
+  - Entries are grouped by date within the RecyclerView
 - [X] **Mutable Entries**
   - All fields of an entry can be edited post-creation
   - Entries can be deleted entirely
-- [X] **User-friendly UI (+ stretch goals)**
-  - "Create entry" component that prompts users to make their daily entry
-  - Styilized/colorized UI
-  - *Entries are collapsible to save space on your screen*
-- [X] **Date Categorized Logs**
-  - Dates can be attached to entries (including past dates!)
-  - Entries are grouped by date within the RecyclerView
-- [X] **Orientation Responsivity**
+- [X] **Collapsible entries**
 
 ## Video Walkthrough
 
