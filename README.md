@@ -25,7 +25,6 @@ The following **optional** features are implemented:
 - [X] **Create a UI for tracking averages and trends in metrics**
 - [X] **Improve and customize the user interface through styling and coloring**
 - [X] **Implement orientation responsivity**
-- [ ] **Add a daily photo feature**
 
 The following **additional** features are implemented:
 
@@ -51,9 +50,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='gifs/1.gif' title='Required Features Video Walkthrough' width='' alt='Video Walkthrough' title="At least 1 metric, Create entry UI, and RecyclerView "/>
+<img src='gifs/1.gif' title='Required Features Video Walkthrough' width='' alt='Video Walkthrough' />
 Proof of data persisting after restart:
-<img src='gifs/data_persistence.gif' title='Data Persistence Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='gifs/data_persistence.gif' title='Data Persistence Video Walkthrough'  width='50%' height='50%' alt='Video Walkthrough' />
 
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
